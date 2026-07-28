@@ -1,5 +1,8 @@
 public class hello{
     public static void main(String[] args){
+
+        /* Primitive Data Types */
+        
         double d = 1.324;
         System.out.println("Double = " + d);
         float f = 3.21f;
