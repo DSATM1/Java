@@ -1,1 +1,3 @@
 In Java, logic is primarily built using boolean expressions, logical/relational operators, and conditional control flow structures.
+1. Logical Operators
+Logical operators are used to combine or invert boolean values (true or false).
