@@ -8,11 +8,12 @@
     }
 }*/
 
-class Suraj{
+class literals{
     public static void main(String[] args){
-    int n = 10;
-    int m = 20;
-    System.out.println(n+m);
+
+        int n = 10;
+        int m = 20;
+        System.out.println(n+m);
 
     }
 }
