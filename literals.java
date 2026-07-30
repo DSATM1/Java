@@ -13,7 +13,7 @@ class literals{
 
         int n = 10;
         int m = 20;
-        System.out.println(n+m);
+        System.out.println(" Sum of " + n + " And " + m + " is " + (n + m ));
 
     }
 }
