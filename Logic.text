@@ -6,3 +6,4 @@ Used to compare two values, returning a boolean (true or false).
 3. Conditional Structures
 if - else if - else Statement
 Executes code blocks based on boolean conditions.
+4. Practical Example: Combining Logic
