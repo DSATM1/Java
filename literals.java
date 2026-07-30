@@ -1,4 +1,4 @@
-"public class literals{
+/*public class literals{
     public static void main(String[] args){
         
         //literals
@@ -6,5 +6,13 @@
         System.out.println(n);
         
     }
-}"
+}*/
 
+class Suraj{
+    public static void main(String[] args){
+    int n = 10;
+    int m = 20;
+    System.out.println(n+m);
+
+    }
+}
