@@ -1,4 +1,4 @@
-public class literals{
+"public class literals{
     public static void main(String[] args){
         
         //literals
@@ -6,4 +6,5 @@ public class literals{
         System.out.println(n);
         
     }
-}
+}"
+
