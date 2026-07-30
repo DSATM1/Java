@@ -7,3 +7,18 @@ Used to compare two values, returning a boolean (true or false).
 if - else if - else Statement
 Executes code blocks based on boolean conditions.
 4. Practical Example: Combining Logic
+
+
+public class Main {
+    public static void main(String[] args) {
+        int age = 25;
+        boolean hasLicense = true;
+
+        // Logic combining AND (&&) with relational operators
+        if (age >= 18 && hasLicense) {
+            System.out.println("Allowed to drive.");
+        } else {
+            System.out.println("Not allowed to drive.");
+        }
+    }
+}
